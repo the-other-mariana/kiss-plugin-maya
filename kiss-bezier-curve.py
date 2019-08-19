@@ -7,11 +7,13 @@ import maya.cmds as cmds
 import math
 import maya.OpenMaya as OM
 
+########################
+# user input variables:
 inputRadius = 3
 inputHeight = 7
 sides = 22
 segments = 17
-
+########################
 
 mesh = OM.MFnMesh()
 mergeVerts = True
