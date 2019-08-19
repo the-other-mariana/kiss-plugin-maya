@@ -1,7 +1,7 @@
 #File:      kiss_v6.py
 #Date:      09/04/2019
-#Name:      Mariana Rmz and Mariana Avalos
-#Description: kiss bezier curve
+#Authors:      Mariana Ramirez and Mariana Avalos
+#Description: kiss plugin using bezier curve for n points
 
 import maya.cmds as cmds
 import math
