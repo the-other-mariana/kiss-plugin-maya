@@ -1,6 +1,6 @@
 # Kiss Chocolate Generator Script
 
-The following is a Python script made to create a Kiss Chocolate model using a bezier curve programmed to take any number points and generate the corresponding bezier curve, which in this case would be the side curve of the chocolate.
+The following is a Python script that automatically creates a Kiss Chocolate model in Austodesk Maya, using a bezier curve programmed to take any number points and generate the corresponding bezier curve, which in this case would be the side curve of the chocolate.
 
 ## Specifications
 
